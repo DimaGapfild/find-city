@@ -11,7 +11,7 @@
 	};
 
 	// chache all required elements
-   const sourceDataURL = '../data/city.json',
+   const sourceDataURL = 'data/city.json',
    			cities=[],
    			countries=[],
    			languages=[],
