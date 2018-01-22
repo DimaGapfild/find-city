@@ -1,0 +1,29 @@
+h2 {
+	text-align: center;
+	margin-top: 10%;
+	margin-bottom: 15px;
+}
+
+.output-data {
+	padding-left: 0px;
+}
+
+.output-data li {
+	list-style: none;
+}
+.more-button {
+	
+}
+
+.edit-btn , .remove-btn { 
+	width: 40px;
+	padding:0 10px;
+}
+.languages span{
+	font-style: italic;
+	font-size: 10px
+}
+.country-name span {
+	font-weight: bold ;
+	font-style: italic;
+}

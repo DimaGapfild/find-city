@@ -1,0 +1,15 @@
+{
+  "name": "TESTER",
+  "version": "1.0.0",
+  "description": "some test page",
+  "main": "index.js",
+  "scripts": {
+    "server-start": "node .\\node_modules\\http-server\\bin\\http-server -p 3000"
+  },
+  "author": "Dima K",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "http-server": "^0.10.0"
+  }
+}
