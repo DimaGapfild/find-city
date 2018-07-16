@@ -74,7 +74,7 @@
    			html = resultList.map(data => {
    				return `
 					<li>
-						<p class="city-name">${data.Name}<span class="pull-right"><button class="btn btn-warning edit-btn"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></button>
+						<p class="city-name">${data.Name}<span class="pull-right"><button class="btn btn-warning edit-btn"><i class="far fa-edit" aria-hidden="true"></i></button>
 						<button class="btn btn-danger remove-btn"><i class="fa fa-times" aria-hidden="true"></i></button></span></p>
 						<div class="more-info">
 						<p class="country-name">Country:<span class="pull-right">${data.country}</span></p>
